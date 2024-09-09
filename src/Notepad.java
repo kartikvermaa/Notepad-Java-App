@@ -99,7 +99,8 @@ public class Notepad extends JFrame implements ActionListener {
                 e.printStackTrace();
             }
         }
-    }
+    } 
+
 
     public static void main(String[] args) {
         new Notepad();
